@@ -6,9 +6,8 @@
 This project presents a comprehensive Exploratory Data Analysis (EDA) of the famous Titanic dataset, investigating the factors that influenced passenger survival during the tragic sinking of the RMS Titanic. The analysis combines statistical methods with data visualization to uncover patterns and insights in the historical data.
 
 ## Power BI Dashboard
-[<video controls src="https://github.com/Yossefmohammed/Titanic_analysis-EDA/blob/main/Titanic%20analysis%20power%20bi.mp4" title="Insert your Power BI dashboard video link here"></video>]
-### Titanic dashboard
-![Dashboard](C:\Users\youssef\Pictures\Titanic powerbi.png)
+[<video controls src=https://github.com/Yossefmohammed/Titanic_analysis-EDA/blob/main/Titanic%20analysis%20power%20bi.mp4 title="Titanic Dashboard"></video>]
+
 
 ## Key Features
 - **Data Exploration**: Analysis of passenger demographics, ticket classes, and survival rates
