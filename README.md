@@ -8,7 +8,7 @@ This project presents a comprehensive Exploratory Data Analysis (EDA) of the fam
 ## Power BI Dashboard
 [<video controls src="https://github.com/Yossefmohammed/Titanic_analysis-EDA/blob/main/Titanic%20analysis%20power%20bi.mp4" title="Insert your Power BI dashboard video link here"></video>]
 ### Titanic dashboard
-![Dashboard]("C:\Users\youssef\Pictures\Titanic powerbi.png")
+![Dashboard](C:\Users\youssef\Pictures\Titanic powerbi.png)
 
 ## Key Features
 - **Data Exploration**: Analysis of passenger demographics, ticket classes, and survival rates
